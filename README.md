@@ -199,6 +199,7 @@ Agents facilitate the interaction from clients with canisters on the Internet Co
 - [Cycles.watch](https://cycles.watch) - Dashboard for canister cycles consumption overview with local notifications
 - [ic-blackhole](https://github.com/ninegua/ic-blackhole) - Canister to publicly expose canister status information.
 - [Metrics encoder](https://lib.rs/crates/ic-metrics-encoder) - Library to encode metrics in Prometheus text exposition format.
+- [Cygnus](https://topge-siaaa-aaaai-qns6a-cai.ic0.app/) - Auto Top-up cycles with email notification, Controller Management, and multiple integration options.
 
 ## Motoko
 
